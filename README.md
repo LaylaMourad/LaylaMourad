@@ -2,9 +2,6 @@
 
 <img src="https://campusceaec.org/wp-content/uploads/2021/09/natureza_bioenergia-1024x683.png" jsaction="VQAsE" class="r48jcc pT0Scc iPVvYb" style="max-width: 1024px; height: 310px; margin: 0px; width: 465px;" alt="Energias da Natureza – Campus CEAEC" jsname="kn3ccd" aria-hidden="false">
 
-**LaylaMourad/LaylaMourad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on as a public servant.
 - 🌱 I’m currently learning about web programming.
