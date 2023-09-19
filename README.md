@@ -1,6 +1,5 @@
 ### Hi, Welcome! 👋
 
-<div jsname="DbrZPc" style="width: 100%; opacity: 0.999; transition: opacity 150ms ease 0s;"></div>
 
 **LaylaMourad/LaylaMourad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
