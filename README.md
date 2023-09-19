@@ -1,7 +1,5 @@
 ### Hi, Welcome! 👋
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Male_and_female_chicken_sitting_together.jpg/280px-Male_and_female_chicken_sitting_together.jpg" jsaction="VQAsE" class="r48jcc pT0Scc iPVvYb" style="max-width: 280px; height: 374px; margin: 0px; width: 280px;" alt="Galinha – Wikipédia, a enciclopédia livre" jsname="kn3ccd" aria-hidden="false">
-
 <!--
 **LaylaMourad/LaylaMourad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
